@@ -1,0 +1,23 @@
+{
+  "name": "story",
+  "version": "1.0.0",
+  "description": "This is a story page project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamir565/story.git"
+  },
+  "author": "Aamir Rayeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aamir565/story/issues"
+  },
+  "homepage": "https://github.com/Aamir565/story#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
